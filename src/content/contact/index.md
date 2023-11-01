@@ -1,4 +1,4 @@
 ---
-title: Contact
-page_title: Get’n touch with Our </br> Pinwheel team
+title: Kontakt
+page_title: Lorem ipsum dolor sit amet
 ---
