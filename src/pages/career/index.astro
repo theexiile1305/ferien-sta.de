@@ -2,7 +2,6 @@
 import PageHeader from "@components/PageHeader.astro";
 import Shape from "@components/Shape.astro";
 import Base from "@layouts/Base.astro";
-import Cta from "@layouts/partials/Cta.astro";
 import { getEntryBySlug } from "astro:content";
 // import CareerBenifits from "@components/career/CareerBenifits.astro";
 import { Image } from "@astrojs/image/components";
@@ -67,5 +66,4 @@ const page_data = {
     career={career}
     posts={jobposts}
   />
-  <Cta />
 </Base>
