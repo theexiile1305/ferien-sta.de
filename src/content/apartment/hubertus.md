@@ -1,10 +1,10 @@
 ---
-title: Ferienhaus Hubertus
-page_title: "Ferienhaus Hubertus"
+title: Ferienwohnung Hubertus
+page_title: "Ferienwohnung Hubertus"
 image: "/images/collaboration.png"
 benifits:
-  title: Lorem ipsum dolor sit amet
-  description: Pellentesque in ipsum id orci porta dapibus. Lorem ipsum dolor amet, consectetur adipiscing elit. Praesent sapien massa, convallis a pellentesque
+  title: Ferienwohnung Hubertus
+  description: Die Maisonette-Wohnung ist mit 2 Zimmern und 80 qm Wohnfläche für 2 bis maximal 6 Personen ausgelegt. Neben einem Doppel- und Einzelbett sowie einem Schlafsessel im Schlafzimmer im Dachgeschoss steht ein komfortables Schlafsofa im Wohnzimmer im Obergeschoss bereit. <br> Das Bad ist mit einer Badewanne mit Duschteil ausgestattet. <br> Vom Wohnraum können Sie direkt auf den 6qm großen Balkon gehen, der mit seinem Blick über Wiesen und Wälder zum Frühstücken oder einem Glas Wein am Abend einlädt.
   benifit_list:
     - title: Lorem ipsum dolor
       content: "Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit

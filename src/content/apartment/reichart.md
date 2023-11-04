@@ -1,10 +1,10 @@
 ---
-title: Ferienhaus Reichart
-page_title: "Ferienhaus Reichart"
+title: Ferienwohnung Reichart
+page_title: "Ferienwohnung Reichart"
 image: "/images/collaboration.png"
 benifits:
-  title: Lorem ipsum dolor sit amet
-  description: Pellentesque in ipsum id orci porta dapibus. Lorem ipsum dolor amet, consectetur adipiscing elit. Praesent sapien massa, convallis a pellentesque
+  title: Ferienwohnung Reichart
+  description: Die sehr helle und ruhige EG-Wohnung ist mit 2 Zimmern und 50 qm Wohnfläche für 2 bis maximal 4 Personen ausgelegt. Neben einem Doppelbett im Schlafzimmer steht ein komfortables Schlafsofa im Wohnzimmer bereit. Im Wohnraum befindet sich auch die großzügige Küchenzeile und der Essbereich. Im geräumigen Badezimmer ist eine Dusche. Die Wohnung hat direkten Zugang zur abgetrennten Terrasse auf der Süd-/West-Seite.
   benifit_list:
     - title: Lorem ipsum dolor
       content: "Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit
