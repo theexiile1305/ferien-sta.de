@@ -1,49 +1,26 @@
 {
   "site": {
-    "title": "Pinwheel Astro",
-    "base_url": "https://pinwheel-astro.vercel.app",
+    "title": "Ferienwohnungen Reichart",
+    "base_url": "https://ferien-sta.de",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_width": "147",
     "logo_height": "31",
-    "logo_text": "Pinwheel"
+    "logo_text": "Ferienwohnungen Reichart"
   },
-
-  "settings": {
-    "pagination": 6,
-    "summary_length": 100,
-    "blog_folder": "blog"
-  },
-
-  "call_to_action": {
-    "title": "Helping teams in the world with focus",
-    "description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
-    "button": {
-      "label": "Download The Theme",
-      "link": "https://themefisher.com/astro-themes/pinwheel-astro"
-    }
-  },
-
-  "disqus": {
-    "enable": true,
-    "shortname": "themefisher-template",
-    "settings": {}
-  },
-
   "params": {
     "footer_description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
-    "email": "info@andromeda.io",
-    "location": "2118 Thornridge Cir. Syracuse, Connecticut 35624",
-    "phone": "+704-555-0127",
+    "email": "info@ferien-sta.de",
+    "location": "Ferchastrasse 2, 82319 Starnberg",
+    "phone": "+49 (0) 817 886 718 8",
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "© 2023 Familie Reichart // [Impressum](/impressum) // [Datenschutzerklärung](/gdpr)"
   },
-
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "Ferienwohnungen Reichart",
     "meta_image": "/images/og-image.png",
-    "meta_description": "pinwheel astro"
+    "meta_description": "Homepage von Ferienwohnungen der Familie Reichart"
   }
 }

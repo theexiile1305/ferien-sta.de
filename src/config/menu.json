@@ -5,81 +5,49 @@
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
-    },
-    {
-      "name": "Blog",
-      "url": "/blog"
-    },
-    {
-      "name": "Features",
-      "url": "/features"
-    },
-    {
-      "name": "How It Works",
-      "url": "/how-it-works"
-    },
-    {
-      "name": "Pages",
-      "url": "",
+      "name": "Ferienwohnungen",
+      "url": "/apartments",
       "hasChildren": true,
       "children": [
         {
-          "name": "Career",
-          "url": "/career"
-        },
-
-        {
-          "name": "Integrations",
-          "url": "/integrations"
-        },
-
-        {
-          "name": "Pricing",
-          "url": "/pricing"
+          "name": "Ferienwohnung Reichart",
+          "url": "/apartment-reichart"
         },
         {
-          "name": "Sign In",
-          "url": "/signin"
-        },
-
-        {
-          "name": "Elements",
-          "url": "/elements"
-        },
-        {
-          "name": "Changelog",
-          "url": "/changelog"
-        },
-        {
-          "name": "Terms And Conditions",
-          "url": "/terms-and-conditions"
+          "name": "Ferienwohnung Hubertus",
+          "url": "/apartment-hubertus"
         }
       ]
     },
     {
-      "name": "Contact",
+      "name": "Preise",
+      "url": "/pricing"
+    },
+    {
+      "name": "Partnerseiten",
+      "url": "/affiliates"
+    },
+    {
+      "name": "Kontakt",
       "url": "/contact"
     }
   ],
-
   "footer": [
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Ferienwohnung Reichart",
+      "url": "/apartments/reichart"
     },
     {
-      "name": "Contact",
-      "url": "/contact"
+      "name": "Ferienwohnung Hubertus",
+      "url": "/apartments/hubertus"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Preise",
+      "url": "/pricing"
     },
     {
-      "name": "Changelog",
-      "url": "/changelog"
+      "name": "Partnerseiten",
+      "url": "/affiliate"
     }
   ]
 }

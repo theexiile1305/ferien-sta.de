@@ -1,13 +1,10 @@
 {
-  "name": "pinwheel-astro",
+  "name": "ferien-sta.de",
   "version": "1.0.0",
-  "author": "themefisher",
   "license": "MIT",
-  "packageManager": "yarn@1.22.19",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
-    "json": "node scripts/jsonGenerator.js",
     "format": "prettier -w ."
   },
   "dependencies": {
